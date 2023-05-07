@@ -1,0 +1,55 @@
+/* const configTags = {
+    containerArray: ['label', 'span', 'div', 'p'],
+    textDecorationArray: ['bold', 'italic', 'line-through', 'normal'],
+    backgroundColorArray: ['text-blue', 'text-red', 'text-black', 'text-green'],
+    textCollorArray: ['bg-blue', 'bg-red', 'bg-yellow', 'bg-green'],
+    typeArray: ['text', 'password', 'button', 'file']
+} */
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.line-through {
+    text-decoration: line-through;
+}
+
+.normal {
+    font-weight: normal;
+}
+
+.text-blue {
+    color: blue;
+}
+
+.text-red {
+    color: red;
+}
+
+.text-black {
+    color: black;
+}
+
+.text-green {
+    color: green;
+}
+
+.bg-blue {
+    background-color: lightblue;
+}
+
+.bg-red {
+    background-color: lightcoral;
+}
+
+.bg-yellow {
+    background-color: lightyellow;
+}
+
+.bg-green {
+    background-color: lightgreen;
+}

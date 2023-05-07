@@ -1,0 +1,8 @@
+.myBtn {
+  padding: 5px 15px;
+  font-size: 14px;
+  background: gainsboro;
+  border: 1px solid gainsboro;
+  border-radius: 50px;
+  cursor: pointer;
+}
